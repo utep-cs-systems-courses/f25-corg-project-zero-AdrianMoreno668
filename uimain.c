@@ -17,7 +17,7 @@ int main()
     // Given the user answer, select which method to call
     switch (c) {
     case 't':
-      puts("You selected triangle:");
+      puts("woah You selected triangle:");
       print_triangle(5, 7);
       break;
     case 's':
